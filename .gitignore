@@ -1,8 +1,18 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python,macos,windows,linux
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,macos,windows,linux
 
+### Information source files ###
+checkouts_export_1.csv
+customers_export_1.csv
+dataset_limpio.csv
+discounts_export_1.csv
+gift_cards_export_1.csv
+orders_export_1.csv
+products_export_1.csv
+
 ### Linux ###
 *~
+
 
 # temporary files which can be created if a process still has a handle open of a deleted file
 .fuse_hidden*
